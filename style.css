@@ -303,6 +303,9 @@ a{
 #section4{
   margin-top: 50px;  
 }
+.section4{
+    display: block;
+}
 .footerflex{
     display: block;
    max-width: 100%;
