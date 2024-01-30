@@ -308,21 +308,28 @@ a{
 }
 .footerflex{
     display: block;
-   max-width: 100%;
+   margin: 5px 10px;
    
-    margin-top: 40px;
-    text-align: center;
-    margin-right: 50px; 
+
+    
 }
 .pp{
     text-align: center;
-    margin-bottom: 20px;
+   
+}
+.footerUl{
+    font-size: 10px;
+    margin: auto;
+   
 }
 
 
 #space{
-    margin-bottom: 30px;
+    margin-bottom: 35px;
 
+}
+.kartu{
+    margin-bottom: 30px;
 }
 
 }
