@@ -227,6 +227,9 @@ a{
         margin: auto;   
         
     }
+    #ul{
+         background-color:#948a8ad9;
+    }
 
     ul li{
         list-style: none;
@@ -234,7 +237,7 @@ a{
         font-weight: 500;
         font-family: sans-serif; 
         display: block;
-         background-color:#948a8ad9;   
+           
 
     } 
     
