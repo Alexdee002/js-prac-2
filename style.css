@@ -225,6 +225,7 @@ a{
         display: block;
         gap: 30px;
         margin: auto;   
+        
     }
 
     ul li{
@@ -233,6 +234,8 @@ a{
         font-weight: 500;
         font-family: sans-serif; 
         display: block;
+         background-color:#948a8ad9;   
+
     } 
     
     
